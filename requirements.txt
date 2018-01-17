@@ -1,0 +1,10 @@
+Django
+django-filter
+django-rest-swagger
+djangorestframework
+djangorestframework-filters
+djangorestframework-gis
+drf-openapi
+psycopg2
+requests
+
